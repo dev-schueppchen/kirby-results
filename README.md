@@ -7,6 +7,6 @@ https://github.com/dev-schueppchen/Kirby
 
 ## Table of Contents
 
-1. [Introduction](Introduction.ipynb)
-2. [Messages](Messages.ipynb)
-3. [Status](Status.ipynb)
+1. [Introduction](notebooks/Introduction.ipynb)
+2. [Messages](notebooks/Messages.ipynb)
+3. [Status](notebooks/Status.ipynb)
