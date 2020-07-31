@@ -1,7 +1,7 @@
 import json
 
 
-OUT_FILE = './data/idtable.json'
+OUT_FILE = '../data/idtable.json'
 
 
 idtable = {}
